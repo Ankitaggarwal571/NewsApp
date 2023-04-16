@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "At least 29 killed in Mexico capture of Chapo's son - Reuters Canada",
+      "description": "Nineteen suspected gang members and 10 military personnel were killed in a wave of violence surrounding the arrest of Mexican drug cartel boss Ovidio Guzman in the northern state of Sinaloa, Defense Minister Luis Cresencio Sandoval said on Friday.",
+      "url": "https://www.reuters.com/world/americas/mexico-says-least-29-killed-during-capture-el-chapos-son-2023-01-06/",
+      "urlToImage": "https://www.reuters.com/resizer/ZPpRtFwaeAg-XrB4m1keh6EMcH8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/656KVWNUEFP5DAW5SH4U5SS5TI.jpg",
+      "publishedAt": "2023-01-07T18:29:00Z",
+      "content": "MEXICO CITY, Jan 6 (Reuters) - Nineteen suspected gang members and 10 military personnel were killed in a wave of violence surrounding the arrest of Mexican drug cartel boss Ovidio Guzman in the nort… [+3618 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Julia Musto",
+      "title": "James Webb Telescope reveals barred galaxies billions of years ago - Fox News",
+      "description": "The University of Texas said that, for the first time, new images from the James Webb Space Telescope have revealed galaxies with stellar bars in the early universe.",
+      "url": "https://www.foxnews.com/science/james-webb-telescope-barred-galaxies-billions-years-ago",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/GALAXIES-2.jpg",
+      "publishedAt": "2023-01-07T17:45:00Z",
+      "content": "For the first time, new images from the James Webb Space Telescope have revealed galaxies with stellar bars at a time when the universe was a quarter of its present age. \r\nStellar bars are elongated … [+3654 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "China suspends social media accounts of Covid policy critics - BBC",
+      "description": "Social media platform Weibo says it acted over personal attacks against Chinese Covid experts.",
+      "url": "https://www.bbc.com/news/world-asia-china-64198313",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DE2/production/_128228277_mediaitem128228273.jpg",
+      "publishedAt": "2023-01-07T17:36:35Z",
+      "content": "China has taken down more than 1,000 social media accounts - some with millions of followers - that criticised the government's Covid policies.\r\nSocial media platform Weibo said it had suspended or b… [+2033 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Elizabeth Wolfe, Jacob Lev",
+      "title": "'That's all we needed': Bills' Damar Hamlin is breathing on his own and talked to teammates, bolstering them for Sunday's regular season finale - CNN",
+      "description": "Just four days after his stunning on-field cardiac arrest, Buffalo Bills safety Damar Hamlin is breathing on his own and speaking to family, physicians and teammates -- positive updates that Bills players say will bolster them in this weekend's matchup agains…",
+      "url": "https://www.cnn.com/2023/01/07/sport/damar-hamlin-collapse-bills-status-saturday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230106114208-damar-hamilin-file-082821.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-07T17:23:00Z",
+      "content": "Just four days after his stunning on-field cardiac arrest, Buffalo Bills safety Damar Hamlin is breathing on his own and speaking to family, physicians and teammates positive updates that Bills playe… [+5678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Joseph Kaminski, Daniel Van Boom",
+      "title": "Most Innovative EVs, Electric Bikes and Rideables at CES 2023 - CNET",
+      "description": "Here are some of the most interesting and cutting-edge electric vehicles from this week's show in Las Vegas.",
+      "url": "https://www.cnet.com/roadshow/news/most-innovative-evs-electric-bikes-and-rideables-at-ces-2023/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/377f1aee0a2abad2f73fed06986feb25d2a5952b/hub/2023/01/04/98402200-acf2-4c4b-9dbd-6e2e4389830d/2-icoma-kv-side-view-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-07T17:05:47Z",
+      "content": "You might think of CES as being filled with TVs, laptops, smart home gear and all sorts of wacky miscellaneous gadgetry. But the annual tech show in Las Vegas is also a huge car tech show. And with p… [+5799 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Vanessa Thorpe",
+      "title": "Drugs, sex and killings: six explosive revelations from Prince Harry’s book - The Guardian",
+      "description": "The early Spanish publication of the memoir reveals a scuffle with William and lost virginity behind a pub",
+      "url": "https://www.theguardian.com/uk-news/2023/jan/07/prince-harry-book-spare-six-explosive-revelations",
+      "urlToImage": "https://i.guim.co.uk/img/media/c4a56f08959d69cc07e4fdcf782a49ab978741a2/0_208_6246_3748/master/6246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=b8d77c8bbfe80482e63f93dc486a0c82",
+      "publishedAt": "2023-01-07T16:31:00Z",
+      "content": "1. Dog bowl fight\r\nThe Duke of Sussex alleges he scuffled with his brother at his home in Nottingham Cottage in 2019 when the Prince of Wales called his wife Meghan difficult, rude and abrasive. Ever… [+2505 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Victoria Bisset, Marianna Sotomayor, Paul Kane",
+      "title": "The key moments in the race to elect a new House speaker - The Washington Post",
+      "description": "After four days and 15 grueling votes, the House of Representatives finally has a speaker. Here are some of the dramatic and colorful moments from the past week.",
+      "url": "https://www.washingtonpost.com/nation/2023/01/07/dramatic-moments-mccarthy-speaker-vote/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2DI7VCGTKFFZMZ4HKGCMCOYAU.jpg&w=1440",
+      "publishedAt": "2023-01-07T16:21:06Z",
+      "content": "Comment on this story\r\nIts been a dramatic, history-making few days in the House, with McCarthy finally becoming speaker after four long days and 15 rounds of voting.\r\nWhat is normally a simple proce… [+8015 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "NC’s Hudson pulls Alabama congressman away from Gaetz confrontation on House floor - Raleigh News & Observer",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzA4Nzk5NTcuaHRtbNIBS2h0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2FydGljbGUyNzA4Nzk5NTcuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-07T15:50:11Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Dana Kennedy",
+      "title": "Prince Harry: I wasn't Prince William's best man — it was all a lie - New York Post ",
+      "description": "Prince Harry claims in his leaked new memoir “Spare” that he was never really the best man at Prince William’s 2011 wedding and it was a stunt for the media.",
+      "url": "https://nypost.com/2023/01/07/prince-harry-i-wasnt-prince-williams-best-man/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25276728-1673105678709.jpg?quality=75&strip=all&1673087768&w=1024",
+      "publishedAt": "2023-01-07T15:46:00Z",
+      "content": "Prince Harry claims in his leaked new memoir “Spare” that he was never really the best man at Prince William’s 2011 wedding and it was a stunt for the media.\r\nTo the outside world, Prince Harry was t… [+1430 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Michael David Smith",
+      "title": "Chiefs clinch No. 1 seed with win today, but neutral site AFC Championship Game remains in play - ProFootballTalk - NBC Sports",
+      "description": "If the Chiefs beat the Raiders this afternoon, they are the No. 1 seed in the AFC playoffs regardless of anything that happens tomorrow. But the No. 1 seed won’t necessarily mean home-field advantage throughout the AFC playoffs.Because of the rules change the…",
+      "url": "https://profootballtalk.nbcsports.com/2023/01/07/chiefs-clinch-no-1-seed-with-win-today-but-neutral-site-afc-championship-game-remains-in-play/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/01/GettyImages-1454045666-e1673102416104.jpg",
+      "publishedAt": "2023-01-07T14:40:00Z",
+      "content": "If the Chiefs beat the Raiders this afternoon, they are the No. 1 seed in the AFC playoffs regardless of anything that happens tomorrow. But the No. 1 seed wont necessarily mean home-field advantage … [+1723 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Rebecca Rosenberg, Stephanie Pagones, Audrey Conklin",
+      "title": "Bryan Kohberger case: Knife sheath points to possible target, experts say - Fox News",
+      "description": "The knife sheath that investigators found next to two victims could indicate they were the target of the Nov. 13 quadruple homicide near the University of Idaho campus.",
+      "url": "https://www.foxnews.com/us/bryan-kohberger-case-knife-sheath-lpoints-possible-target-expert",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/idaho.jpg",
+      "publishedAt": "2023-01-07T14:28:00Z",
+      "content": "MOSCOW, Idaho The tan leather knife sheath found next to the bodies of two slain University of Idaho students could indicate that the killer targeted them, according to a forensic expert.\r\nKaylee Gon… [+4736 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "DeSantis activates National Guard in response to hundreds of migrants arriving in Florida Keys - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N0YXRlLXdhdGNoLzM4MDM1NjItZGVzYW50aXMtYWN0aXZhdGVzLW5hdGlvbmFsLWd1YXJkLWluLXJlc3BvbnNlLXRvLWh1bmRyZWRzLW9mLW1pZ3JhbnRzLWFycml2aW5nLWluLWZsb3JpZGEta2V5cy_SAZQBaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdGF0ZS13YXRjaC8zODAzNTYyLWRlc2FudGlzLWFjdGl2YXRlcy1uYXRpb25hbC1ndWFyZC1pbi1yZXNwb25zZS10by1odW5kcmVkcy1vZi1taWdyYW50cy1hcnJpdmluZy1pbi1mbG9yaWRhLWtleXMvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-07T13:33:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amanda Musa, Jennifer Feldman",
+      "title": "6-year-old in custody after shooting teacher in Virginia, police chief says - CNN",
+      "description": "A 6-year-old boy is in police custody after he shot a teacher at Richneck Elementary School in Newport News, Virginia, Friday afternoon, Police Chief Steve Drew said in a news conference.",
+      "url": "https://www.cnn.com/2023/01/06/us/newport-news-virginia-shooting/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230106175641-01-virginia-school-shooting-0106.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-07T12:19:00Z",
+      "content": "A 6-year-old boy is in police custody after he shot a teacher at Richneck Elementary School in Newport News, Virginia, Friday afternoon, Police Chief Steve Drew said in a news conference.\r\nThe indivi… [+1591 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Biswajeet Banerjee",
+      "title": "Sinking land forces hundreds to leave Indian temple town - The Associated Press - en Español",
+      "description": "LUCKNOW, India (AP) — Authorities in an Indian Himalayan town have stopped construction activities and started moving hundreds of people to temporary shelters after a temple collapsed and cracks appeared in over 600 houses because of sinking of land, official…",
+      "url": "https://apnews.com/article/science-politics-india-climate-and-environment-67400f2375f10986e026545f66d38923",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b362c6e552fc4899a9986510b18c1de0/3000.webp",
+      "publishedAt": "2023-01-07T12:15:53Z",
+      "content": "LUCKNOW, India (AP) Authorities in an Indian Himalayan town have stopped construction activities and started moving hundreds of people to temporary shelters after a temple collapsed and cracks appear… [+3749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WABC-TV" },
+      "author": null,
+      "title": "Mega Millions Drawing: jackpot now sits at over $1B after no big winner Friday night; lottery players in NY, NJ win $1M - WABC-TV",
+      "description": "Upset you didn't win big in Friday night's Mega Millions drawing? Don't throw out your ticket just yet. People in NY and NJ won $1 million.",
+      "url": "https://abc7ny.com/mega-millions-drawing-next-winning-numbers-jackpot/12669386/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12669494_010723-WABC-MEGA-IMG.jpg?w=1600",
+      "publishedAt": "2023-01-07T12:12:30Z",
+      "content": "NEW YORK (WABC) -- The Mega Millions jackpot has risen to an estimated $1.1 billion after no one won big in Friday night's drawing.\r\nDon't throw your ticket out just yet though. There were some peopl… [+3147 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Samsung might unveil the Galaxy S23 series on February 1st - Engadget",
+      "description": "The Colombian website has reportedly published a page revealing that its next Galaxy Unpacked event is scheduled for February 1st, 2023..",
+      "url": "https://www.engadget.com/samsung-galaxy-s23-series-unpacked-february-1st-120153369.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/b6b02610-8e62-11ed-aeff-7f1e898a5eba",
+      "publishedAt": "2023-01-07T12:02:33Z",
+      "content": "Samsung may have inadvertently confirmed that it will unveil its next flagship phones early next month. According to 9to5Google, the company's Colombian website has published a page revealing that it… [+1468 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Yong Xiong, Laura He",
+      "title": "Jack Ma to relinquish control of Ant group - CNN",
+      "description": "Chinese billionaire Jack Ma will no longer control Ant Group after the fintech giant's shareholders agreed to reshape its shareholding structure, according to a statement released by the company on Saturday.",
+      "url": "https://www.cnn.com/2023/01/07/intl_business/jack-ma-ant-group-restructuring-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230107012817-01-jack-ma-051619-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-07T11:58:00Z",
+      "content": "Chinese billionaire Jack Ma will no longer control Ant Group after the fintech giants shareholders agreed to reshape its shareholding structure, according to a statement released by the company on Sa… [+1547 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Euronews" },
+      "author": "Joshua Askew",
+      "title": "In pictures: Europe's snowless ski resorts - Euronews",
+      "description": "The region is currently experiencing unprecedented seasonal temperatures that are spooking winter sports resorts.",
+      "url": "https://www.euronews.com/2023/01/07/in-pictures-europes-snowless-ski-resorts",
+      "urlToImage": "https://static.euronews.com/articles/stories/07/29/14/00/1000x563_cmsv2_e90098fb-ecf4-5f76-85d7-67989d74e767-7291400.jpg",
+      "publishedAt": "2023-01-07T11:23:00Z",
+      "content": "Winter resorts are fearing for their future, as unseasonally mild weather has left many regions of Europe completely snow-free. \r\nSki slopes in the Alps and other smaller mountainous spots are relyin… [+325 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Adam Shaw, Peter Hasson",
+      "title": "Border agents ‘beyond frustrated’ as Biden prepares to finally visit besieged southern border - Fox News",
+      "description": "Top Border Patrol officials say agents are beyond frustrated ahead of President Biden's visit to the southern border on Sunday, as they try to deal with the two-year crisis.",
+      "url": "https://www.foxnews.com/politics/border-agents-frustrated-biden-prepares-finally-visit-besieged-southern-border",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/biden1.jpg",
+      "publishedAt": "2023-01-07T07:00:00Z",
+      "content": "Border Patrol agents are \"beyond frustrated\" as President Biden prepares to visit the southern border on Sunday, with agents and a former top Border Patrol official telling Fox News Digital that rank… [+4861 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Entertainment Tonight" },
+      "author": "Miguel A. Melendez",
+      "title": "Kris Jenner Pays Tribute to Tristan Thompson's Late Mom as 'Dedicated, Devoted and Selfless' - Entertainment Tonight",
+      "description": "The mother of Khloe Kardashian's ex reportedly died from a heart attack.",
+      "url": "https://www.etonline.com/kris-jenner-pays-tribute-to-tristan-thompsons-late-mom-as-dedicated-devoted-and-selfless-196948",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-01/MK-KRIS-JENNER-TRISTAN-THOMPSON-1280-X-720-HERO-CIRCLE-INSET.jpg?h=529bb7a6&itok=c01s94It",
+      "publishedAt": "2023-01-07T01:46:47Z",
+      "content": "Kris Jenner is remembering Tristan Thompson's late mother as \"the most amazing, dedicated, devoted and selfless mom\" after she reportedly died from a heart attack.\r\nJenner took to Instagram on Friday… [+2057 chars]"
+    }
+  ]
+}
